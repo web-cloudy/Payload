@@ -1,0 +1,30 @@
+{
+  "name": "payload-cms-text-array",
+  "version": "0.0.1",
+  "main": "./src/index.ts",
+  "author": "Lars Vonk <info@vonkprogramming.nl>",
+  "dependencies": {
+    "payload": "^1.15.2",
+    "react": "^18.2.0"
+  },
+  "description": "I did not find a field that supports an array of strings in the documentation of Payload CMS so I made it myself.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebetar/PayloadCMSTextArray.git"
+  },
+  "keywords": [
+    "payload",
+    "payloadCMS",
+    "mongodb",
+    "mongo"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebetar/PayloadCMSTextArray/issues"
+  },
+  "homepage": "https://github.com/thebetar/PayloadCMSTextArray#readme"
+}
